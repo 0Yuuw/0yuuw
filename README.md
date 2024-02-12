@@ -1,7 +1,7 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
 
 ## Introduction
-I'm Lucas, an aspiring IT student based in Switzerland 🇨🇭
+I'm Lucas, an IT student based in Switzerland 🇨🇭
 
 ## About Me
 I'm just a random student diving into the vast world of software development, eager to learn and create exciting projects ! 
