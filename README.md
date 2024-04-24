@@ -21,9 +21,9 @@
 
 - Deep diving into diverse languages
 
-<h3>📫 Connect with Me</h3>
+<h3>📫 Contact Me</h3>
 
-- Email: [lucas.ngn227@gmail.com](mailto:lucas.ngn227@gmail.com)  
+- Email: [lucas@yuu.lol](mailto:lucas@yuu.lol)  
 - Discord: [Yuuw](https://discord.com/users/383997848506728468) 
 
 <h3>📊 My GitHub Stats</h3>
